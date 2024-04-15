@@ -3,7 +3,8 @@ This repo contains all the lecture material of the tutoring of the Stochastic Mo
 
 Lectures:
 
- - Lesson 1: 12/04, 14:30, 3B, H2Bis, Topic: DTMC part 1
+ - Lesson 1: 12/04, 14:00-16:00, 3B, H2Bis, Topic: DTMC
+ - Lesson 2: 17/04, 10:00-11:00, Aula A, C8, Topic: CTMC part 1
 
 
 Tutor:
