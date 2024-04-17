@@ -17,3 +17,7 @@ About the works you are going to submit please take notice of these simple rules
 - **EXTRAS**: in some exercises in addition to the request you will find an "EXTRA" section. This is a further non mandatory request on the exercise that can give you some extra points but it would not influence negatively on the general grade of the assignments.
 
 On the other hand we will try to be as clear as possible on your grades so if you have some questions or need some clarification about a grade please write to the email address above. Similarly, if you have some doubts or problems about the assignments or a specific exercise please feel free to write. 
+
+## DEADLINES
+
+- Assignment 1: 23:59 of May 1st 2024
