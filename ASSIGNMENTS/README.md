@@ -21,3 +21,4 @@ On the other hand we will try to be as clear as possible on your grades so if yo
 ## DEADLINES
 
 - Assignment 1: 23:59 of May 1st 2024
+- Assignment 2: 23:59 of May 14th 2024
