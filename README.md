@@ -10,7 +10,7 @@ Lectures:
  - Lesson 5: 15/05, 10:00-11:00, Aula A, C8, Topic: Noise Induced Bifurcations
  - Lesson 6: 22/05, 10:00-11:00, Aula A, C8, Topic: Noise Induced Bifurcations, part 2
  - Lesson 7: 22/05, 14:00-16:00, 5C, H2Bis, Topic: Noise Induced Bifurcations, part 2
- - Lesson 8-9: 31/05, 14:00-16:00, 3B, H2Bis, Topic: Telegraphic Noise, Error computation on distributions
+ - Lesson 8-9: 31/05, 14:00-16:00, 3B, H2Bis, Topic: Telegraphic Noise
 
 Tutor:
 
