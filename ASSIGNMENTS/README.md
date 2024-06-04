@@ -23,3 +23,4 @@ On the other hand we will try to be as clear as possible on your grades so if yo
 - Assignment 1: 23:59 of May 1st 2024
 - Assignment 2: 23:59 of May 14th 2024
 - Assignment 3: 23:59 of June 4th 2024
+- Assignment 4: 23:59 of June 11th 2024
